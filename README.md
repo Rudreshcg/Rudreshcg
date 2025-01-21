@@ -1,14 +1,22 @@
 <h1 align="center">Hey there,👋 I'm Rudresh C G</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rudreshcg&label=Profile%20views&color=0e75b6&style=flat)
 
 
-- 🔭 I’m currently working on mastering **full stack development and artificial intelligence**.
+- 🔭 I’m currently working as an **Executive Software Engineer**, focusing on building scalable and efficient applications.
+
+- 💻 My expertise includes: **Python, Django, FastAPI, Flask, and React**.
 
 - 🌱 I’m currently learning **React, Node.js, and deep learning**.
 
-- 👯 I’m looking to collaborate on projects from **full-stack development to those involving artificial intelligence integration**.
+- 👯 I’m open to collaborating on: **Full-stack development projects, API design, and web application development**.
+
+- 🚀 Tech Stack:
+
+  - Backend: **Python (Django, FastAPI, Flask)**
+
+  - Frontend: **React, Html, CSS**
 
 - 📫 How to reach me: **[rudreshcsbg@gmail.com](mailto:rudreshcsbg@gmail.com)**.
 
