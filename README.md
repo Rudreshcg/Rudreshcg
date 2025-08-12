@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **[rudreshcsbg@gmail.com](mailto:rudreshcsbg@gmail.com)**.
 
-- 🔗 Check out my portfolio: [Portfolio](https://rudreshcg.github.io/)
+- 🔗 Check out my portfolio: [Portfolio](https://rudresh.in/)
 
 
 <h3 align="left">Connect with me:</h3>
